@@ -1,6 +1,6 @@
 Name:		texlive-xbmks
 Version:	53448
-Release:	1
+Release:	2
 Summary:	Create a cross-document bookmark tree
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xbmks
