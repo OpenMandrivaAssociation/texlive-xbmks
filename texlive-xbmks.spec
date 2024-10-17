@@ -3,7 +3,7 @@ Version:	53448
 Release:	2
 Summary:	Create a cross-document bookmark tree
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xbmks
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xbmks
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xbmks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xbmks.doc.r%{version}.tar.xz
